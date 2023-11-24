@@ -35,4 +35,6 @@ lerna-debug.log*
 !.vscode/extensions.json
 .vercel
 
+# Secrets / database
 .env
+/prisma/dev.*
